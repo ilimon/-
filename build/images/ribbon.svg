@@ -1,0 +1,14 @@
+<svg version="1.1" id="ribbon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 624.3 214.2" enable-background="new 0 0 624.3 214.2" xml:space="preserve" preserveAspectRatio="none">
+<linearGradient id="SVGID_100_" gradientUnits="userSpaceOnUse" x1="107.7256" y1="81.6204" x2="176.2661" y2="30.9868">
+	<stop  offset="0" style="stop-color:#78AB46"/>
+	<stop  offset="1" style="stop-color:#597E34"/>
+</linearGradient>
+<polygon fill="url(#SVGID_100_)" points="209.6,76.5 0,191.9 0,91.1 142.5,12.4 "/>
+<linearGradient id="SVGID_200_" gradientUnits="userSpaceOnUse" x1="509.3933" y1="140.2957" x2="448.7044" y2="187.6331">
+	<stop  offset="0" style="stop-color:#78AB46"/>
+	<stop  offset="1" style="stop-color:#597E34"/>
+</linearGradient>
+<polygon fill="url(#SVGID_200_)" points="401.8,142.7 624.3,35.6 624.3,132.2 469.5,204.6 "/>
+<polygon fill="#78AB46" points="246,0 142.5,12.4 354.1,214.3 469.5,204.6 "/>
+</svg>
